@@ -1,6 +1,6 @@
 # Print the tutorial and get the problem to solve it.
 print("This is Calculator! You can make your question with this symbols (+,  -, x or *, / or ÷)")
-question = input("What do you want to know? ")
+question = input("What do you want to solve? ")
 # Definition of functions in the order of question, solution, answer.
 x, y, z = question.split()
 x, z = float(x), float(z)
