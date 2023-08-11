@@ -18,10 +18,15 @@ def print_menu():
         print_between()
 
 def random_pass():
-    password = ''.join(random.choice(characters) for i in range(int(input("Enter Enter the number of characters:"))))
+    try:
+        password = ''.join(
+            random.choice(characters) for i in range(int(input("Enter Enter the number of characters:"))))
 
-    print("Random password is:", password)
-    print_between()
+        print("Random password is:", password)
+        print_between()
+    except:
+        print('Wrong input. Please enter a number ...')
+        print_between()
 
 if __name__=='__main__':
     while(True):
