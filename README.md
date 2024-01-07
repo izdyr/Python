@@ -88,7 +88,7 @@ if choice == "1":
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Email%20sender">
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/Password%20Manager">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
