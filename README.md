@@ -66,7 +66,7 @@ foo@bar:~$ pip install cryptography
 >
 > **Input:**
 ```console
-foo@bar:~$ python email_sender.py
+foo@bar:~$ python password_manager.py
 Password Manager
 1. Retrieve password
 2. Add new password
@@ -89,6 +89,29 @@ if choice == "1":
 >
 
 <a href="https://github.com/izadyarjalalipour/Python/tree/main/Password%20Manager">
+  <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
+</a>
+
+## 🔑 Password Generator
+
+This Python script functions as a password generator with a user-friendly interface. 🐍🔐 Users can choose between running the password generator or exiting the program. 🔄🚪 The generator employs a combination of letters, digits, and punctuation for creating secure passwords. ➡️🔢🔠 It provides an intuitive menu, allowing users to interact easily. 🛠️👨‍💻 Take control of your password creation with this Python tool!
+
+> **Input:**
+```console
+foo@bar:~$ python password_generator
+
+```
+>
+
+> **Output (Choice):**
+```python
+     1. run the password generator
+     2. Exit
+```
+>
+>
+
+<a href="https://github.com/izadyarjalalipour/Python/blob/main/Password%20generator/">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
