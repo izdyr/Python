@@ -88,7 +88,7 @@ if choice == "1":
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Password%20Manager">
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/Password%20Manager"> 
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -137,7 +137,8 @@ foo@bar:~$ Enter URL: [user_input_here]
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
-## 📖 QRCode Generator
+
+## 📖 Story Generator
 
 This Python script creates a randomly generated story scenario. 📚🎲 It features characters, settings, and plots, and combines them to form a unique narrative snippet. 🐍 Here's a breakdown:
 
@@ -172,5 +173,58 @@ foo@bar:~$ Charlie found themselves in a forest, escaping from danger. They were
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
+## ☁️ Weather App
+
+This Python script utilizes the OpenWeather API to provide current weather information for a specified city and country. 🌍🌦️ The code prompts the user to input the city name and country code, then requests the OpenWeather API to fetch real-time weather data. The temperature in degrees Celsius and a brief description of the weather (e.g., cloudy, sunny) are then extracted from the API response and presented to the user. ☀️🌧️ If the API request is unsuccessful, the script informs the user that weather information cannot be retrieved.
+
+> **Input:**
+```console
+foo@bar:~$ python weather.py
+Enter city name: Paris
+Enter country code: FR
+```
+>
+
+> **Output:**
+```console
+foo@bar:~$ The temperature is 20 degrees Celsius, and the weather is partly cloudy.
+```
+>
+>
+
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/Weather%20App">
+  <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
+</a>
+
+## ▶️ Youtube Video Downloader
+
+This Python script utilizes the `pytube` library to download YouTube videos. 🎥🔽 The user is prompted to input the YouTube video URL. The script then creates an instance of the `YouTube` class, extracts the first available video stream, and proceeds to download the video. The progress is displayed to the user, and upon completion, a success message is printed. 🚀
+
+> **Input:**
+```console
+foo@bar:~$ python pytube.py
+Please type the YouTube video URL: https://www.youtube.com/watch?v=example_video_id
+```
+>
+
+> **Output:**
+```console
+foo@bar:~$
+Downloading video...
+Video downloaded successfully!
+```
+>
+>
+
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/YouTube%20video%20downloader">
+  <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
+</a>
+
+# 👨‍💻 Creator
+<a href="https://github.com/izadyarjalalipour">
+  <img src="https://i.ibb.co/8PXrptR/izadyar.png" alt="GitHub" height="55" width="55">Izadyar Jalalipour
+</a>
+
+# 📜 Lisence
 
 *Copyright (c) 2023 Izadyar Jalalipour*
