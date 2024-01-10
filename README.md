@@ -115,4 +115,26 @@ foo@bar:~$ python password_generator
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
+## 🔑 QRCode Generator
+
+This Python code generates a QR code using the `qrcode` library. 🐍 You provide a website URL as input, and the code creates a QR code with specified effects such as box size and border. The QR code is then saved as an image, in this case as "qrcode.png".📷
+
+> **Input:**
+```console
+foo@bar:~$ python qrcode_generator.py
+
+```
+>
+
+> **Output:**
+```python
+Enter URL: [user_input_here]
+```
+>
+>
+
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/QR%20code%20generator/">
+  <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
+</a>
+
 *Copyright (c) 2023 Izadyar Jalalipour*
