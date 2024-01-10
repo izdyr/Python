@@ -115,7 +115,7 @@ foo@bar:~$ python password_generator
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
-## 🔑 QRCode Generator
+## 🤳🏻 QRCode Generator
 
 This Python code generates a QR code using the `qrcode` library. 🐍 You provide a website URL as input, and the code creates a QR code with specified effects such as box size and border. The QR code is then saved as an image, in this case as "qrcode.png".📷
 
@@ -127,8 +127,8 @@ foo@bar:~$ python qrcode_generator.py
 >
 
 > **Output:**
-```python
-Enter URL: [user_input_here]
+```console
+foo@bar:~$ Enter URL: [user_input_here]
 ```
 >
 >
@@ -136,5 +136,41 @@ Enter URL: [user_input_here]
 <a href="https://github.com/izadyarjalalipour/Python/tree/main/QR%20code%20generator/">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
+
+## 📖 QRCode Generator
+
+This Python script creates a randomly generated story scenario. 📚🎲 It features characters, settings, and plots, and combines them to form a unique narrative snippet. 🐍 Here's a breakdown:
+
+Characters:
+
+A list of fictional character names is defined, and one character is randomly chosen from this list.
+Settings:
+
+Various settings are provided, such as a forest, beach, city, etc. One setting is randomly selected.
+Plots:
+
+Different plot ideas are given, like searching for a lost artifact, solving a mystery, etc. A plot is randomly chosen.
+Story Generation:
+
+Using the selected character, setting, and plot, a sentence is constructed to describe a scenario. The characters "found themselves" in a specific setting, and engaged in a particular plot. The emotional state of the character is also randomly determined, with options like "excited," "scared," etc.
+
+> **Input:**
+```console
+foo@bar:~$ python story_generator.py
+
+```
+>
+
+> **Output:**
+```console
+foo@bar:~$ Charlie found themselves in a forest, escaping from danger. They were excited!
+```
+>
+>
+
+<a href="https://github.com/izadyarjalalipour/Python/tree/main/Story%20generator/">
+  <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
+</a>
+
 
 *Copyright (c) 2023 Izadyar Jalalipour*
