@@ -175,7 +175,7 @@ foo@bar:~$ Charlie found themselves in a forest, escaping from danger. They were
 
 ## ☁️ Weather App
 
-This Python script utilizes the OpenWeather API to provide current weather information for a specified city and country. 🌍🌦️ The code prompts the user to input the city name and country code, then requests the OpenWeather API to fetch real-time weather data. The temperature in degrees Celsius and a brief description of the weather (e.g., cloudy, sunny) are then extracted from the API response and presented to the user. ☀️🌧️ If the API request is unsuccessful, the script informs the user that weather information cannot be retrieved.
+This Python script utilizes the OpenWeather API to provide weather information for a specified city and country. 🌍🌦️ The code prompts the user to input the city name and country code, then requests the OpenWeather API to fetch real-time weather data. The temperature in degrees Celsius and a brief description of the weather (e.g., cloudy, sunny) are then extracted from the API response and presented to the user. ☀️🌧️ If the API request is unsuccessful, the script informs the user that weather information cannot be retrieved.
 
 > **Input:**
 ```console
@@ -198,7 +198,7 @@ foo@bar:~$ The temperature is 20 degrees Celsius, and the weather is partly clou
 
 ## ▶️ Youtube Video Downloader
 
-This Python script utilizes the `pytube` library to download YouTube videos. 🎥🔽 The user is prompted to input the YouTube video URL. The script then creates an instance of the `YouTube` class, extracts the first available video stream, and proceeds to download the video. The progress is displayed to the user, and upon completion, a success message is printed. 🚀
+This Python script utilizes the `pytube` library to download YouTube videos. 🎥🔽 The user is prompted to input the YouTube video URL. The script then creates an instance of the `YouTube` class, extracts the first available video stream, and proceeds to download the video. The progress is displayed to the user, and a success message is printed upon completion. 🚀
 
 > **Input:**
 ```console
@@ -225,6 +225,27 @@ Video downloaded successfully!
   <img src="https://i.ibb.co/8PXrptR/izadyar.png" alt="GitHub" height="55" width="55">Izadyar Jalalipour
 </a>
 
-# 📜 Lisence
+# 📜 License
 
-*Copyright (c) 2023 Izadyar Jalalipour*
+MIT License
+
+Copyright (c) 2023 Izadyar Jalalipour
+
+Permission is at this moment granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
