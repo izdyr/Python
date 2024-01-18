@@ -10,6 +10,7 @@ Many of these projects can be found on the internet, but I have written them in 
 
 I hope they were helpful.
 
+
 ## 🧮 Python Calculator Project
 
 This Python calculator project is designed to effortlessly handle your basic arithmetic operations. 🧮 By utilizing symbols such as '+', '-', 'x' (or '*'), and '/' (or '÷'), users can input mathematical expressions and receive quick and accurate results. ➗ The program parses the input, extracts the numbers and the operation, and performs the calculation. 🔄 With error handling in place, it ensures a smooth user experience. 🛠️ Explore the world of Python programming with this handy calculator! 🌐
@@ -219,6 +220,17 @@ Video downloaded successfully!
 <a href="https://github.com/izadyarjalalipour/Python/tree/main/YouTube%20video%20downloader">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
+
+#
+
+> [!NOTE]
+> I'm excited to start some projects for the future, and I'll be updating the README as I go along.
+>
+>  The Projects:
+> - Chat Application
+> - To-Do List App
+> - README generator
+> - Grammar-Checking AI
 
 # 👨‍💻 Creator
 <a href="https://github.com/izadyarjalalipour">
