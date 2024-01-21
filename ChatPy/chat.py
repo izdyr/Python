@@ -32,7 +32,6 @@ def handle_client(client_socket, client_address):
     while True:
         # TODO: Receive and broadcast messages
         message = client_socket.recv(1024).decode()
-
         if message.lower() == 'exit':
             break
 
