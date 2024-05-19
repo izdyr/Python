@@ -29,7 +29,7 @@ foo@bar:~$ python calculator.py 3+3=6
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Calculator">
+<a href="https://github.com/izdyr/Python/tree/main/Calculator">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -52,7 +52,7 @@ foo@bar:~$  Email sent successfully!
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Email%20sender">
+<a href="https://github.com/izdyr/Python/tree/main/Email%20sender">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -89,7 +89,7 @@ if choice == "1":
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Password%20Manager"> 
+<a href="https://github.com/izdyr/Python/tree/main/Password%20Manager"> 
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -112,7 +112,7 @@ foo@bar:~$ python password_generator
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/blob/main/Password%20generator/">
+<a href="https://github.com/izdyr/Python/blob/main/Password%20generator/">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -134,7 +134,7 @@ foo@bar:~$ Enter URL: [user_input_here]
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/QR%20code%20generator/">
+<a href="https://github.com/izdyr/Python/tree/main/QR%20code%20generator/">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -170,7 +170,7 @@ foo@bar:~$ Charlie found themselves in a forest, escaping from danger. They were
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Story%20generator/">
+<a href="https://github.com/izdyr/Python/tree/main/Story%20generator/">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -193,7 +193,7 @@ foo@bar:~$ The temperature is 20 degrees Celsius, and the weather is partly clou
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/Weather%20App">
+<a href="https://github.com/izdyr/Python/tree/main/Weather%20App">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -217,7 +217,7 @@ Video downloaded successfully!
 >
 >
 
-<a href="https://github.com/izadyarjalalipour/Python/tree/main/YouTube%20video%20downloader">
+<a href="https://github.com/izdyr/Python/tree/main/YouTube%20video%20downloader">
   <img src="https://i.ibb.co/mcWLd7z/button-source-code.png" alt="GitHub" height="55" width="200">
 </a>
 
@@ -233,7 +233,7 @@ Video downloaded successfully!
 > - Grammar-Checking AI
 
 # 👨‍💻 Creator
-<a href="https://github.com/izadyarjalalipour">
+<a href="https://github.com/izdyr">
   <img src="https://i.ibb.co/8PXrptR/izadyar.png" alt="GitHub" height="55" width="55">Izadyar Jalalipour
 </a>
 
